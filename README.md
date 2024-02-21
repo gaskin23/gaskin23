@@ -1,6 +1,5 @@
 
-![Header](./github-header-image4.png =800x200)
-
+<img src="./github-header-image4.png" alt="Header" width="800" height="200">
 
 
 :mailbox: Reach me out!

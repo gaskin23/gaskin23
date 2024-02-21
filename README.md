@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **AWS,GCP,GitOps,k8s,Monitoring etc.**
 
-- 📫 How to reach me **gashcin23@gmail.com**
 
 :mailbox: Reach me out!
 

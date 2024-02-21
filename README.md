@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaskin23&label=Profile%20views&color=0e75b6&style=flat" alt="gaskin23" /> </p>
 
-- 🌱 I’m currently learning **https://terragrunt.gruntwork.io/**
+- 🌱 I’m currently learning [![Terragrunt Logo](https://terragrunt.gruntwork.io/path-to-logo.png)](https://terragrunt.gruntwork.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaskin23/](https://github.com/gaskin23/)
 

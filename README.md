@@ -3,8 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer from Turkey</h3> -->
 
-![Alt Text](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif)
-
+<img align="right" alt="devops" width="400" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaskin23&label=Profile%20views&color=0e75b6&style=flat" alt="gaskin23" /> </p>
 

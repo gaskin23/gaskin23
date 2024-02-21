@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/free-vector/flat-design-devops-illustration_52683-84086.jpg)
+![logo](https://assets-global.website-files.com/622642781cd7e96ac1f66807/62d0f091fc73b7a5828854b1_022021-Harness-Blogpost-DevOpsGeneric-Header-2400x700-1.png)
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer from Turkey</h3>
 

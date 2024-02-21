@@ -21,7 +21,7 @@
 
 📃 K8S Certificates
 
-<p align="left"> <img src="https://www.credly.com/badges/42ec454b-0dec-4d88-b971-bccf39f2b7d9" alt="CKS" /> </p>
+<p align="left"> <img src="./CKA-1.png alt="CKA" /> </p>
 
 📃 AWS Certificates
 

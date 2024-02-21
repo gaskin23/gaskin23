@@ -15,6 +15,11 @@
 
 - 📫 How to reach me **gashcin23@gmail.com**
 
+:mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gokhan_Askin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhanaskin/) 
+[![Mail Badge](https://img.shields.io/badge/-Gokhan_Askin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gashcin23@gmail.com)
+
 </div>
 
 <div><p><strong>💼 Certificates :</strong></p>
@@ -54,4 +59,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaskin23&show_icons=true&locale=en&layout=compact" alt="gaskin23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaskin23&show_icons=true&locale=en" alt="gaskin23" /></p>
-

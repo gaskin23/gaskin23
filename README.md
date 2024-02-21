@@ -1,3 +1,4 @@
+![logo](https://img.freepik.com/free-vector/flat-design-devops-illustration_52683-84086.jpg)
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer from Turkey</h3>
 

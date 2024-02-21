@@ -21,7 +21,7 @@
 
 📃 K8S Certificates
 
-<p align="left"> <img src="./CKA-1.png alt="CKA" /> </p>
+<p align="left"> <img src="./CKA-1.png" /> </p>
 
 📃 AWS Certificates
 

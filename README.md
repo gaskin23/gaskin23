@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer from Turkey</h3>
 
+![Alt Text](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaskin23&label=Profile%20views&color=0e75b6&style=flat" alt="gaskin23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaskin23" alt="gaskin23" /></a> </p>

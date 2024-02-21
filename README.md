@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">A passionate Cloud & DevOps Engineer from Turkey</h3>
+<!-- <h1 align="center">Hi 👋, I'm Gökhan</h1>
+<h3 align="center">A passionate Cloud & DevOps Engineer from Turkey</h3> -->
 
 ![Alt Text](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif)
 

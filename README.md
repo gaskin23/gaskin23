@@ -2,8 +2,9 @@
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gokhan_Askin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhanaskin/) 
-[![Mail Badge](https://img.shields.io/badge/-Gokhan_Askin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gashcin23@gmail.com)
+[<img src="https://img.shields.io/badge/-Gokhan_Askin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" width="100" height="20">](https://www.linkedin.com/in/gokhanaskin/)
+
+[<img src="https://img.shields.io/badge/-Gokhan_Askin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" width="100" height="20">](mailto:gashcin23@gmail.com)
 
 <img align="right" alt="devops" width="400" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif">
 
@@ -15,11 +16,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/gaskin23/](https://github.com/gaskin23/)
 
 - 💬 Ask me about **AWS,GCP,GitOps,k8s,Monitoring etc.**
-
-
-[<img src="https://img.shields.io/badge/-Gokhan_Askin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" width="200" height="40">](mailto:gashcin23@gmail.com)
-
-
 
 </div>
 

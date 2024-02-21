@@ -3,7 +3,6 @@
 :mailbox: Reach me out!
 
 [<img src="https://img.shields.io/badge/-Gokhan_Askin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" width="100" height="20">](https://www.linkedin.com/in/gokhanaskin/)
-
 [<img src="https://img.shields.io/badge/-Gokhan_Askin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" width="100" height="20">](mailto:gashcin23@gmail.com)
 
 <img align="right" alt="devops" width="400" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif">

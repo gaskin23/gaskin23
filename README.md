@@ -14,7 +14,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/gaskin23/](https://github.com/gaskin23/)
+- 👨‍💻 All of my projects are available at [<img src="https://img.shields.io/badge/-gaskin23-8A2BE2?style=flat&labelColor=8A2BE2&logo=github&logoColor=white" width="100" height="25">](https://github.com/gaskin23)
 
 - 💬 Ask me about **AWS,GCP,GitOps,k8s,Monitoring etc.**
 

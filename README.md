@@ -15,6 +15,23 @@
 
 - 📫 How to reach me **gashcin23@gmail.com**
 
+</div>
+
+<div><p><strong>💼 Certificates :</strong></p>
+
+📃 K8S Certificates
+
+<p align="left"> <img src="https://www.credly.com/badges/42ec454b-0dec-4d88-b971-bccf39f2b7d9" alt="CKS" /> </p>
+
+📃 AWS Certificates
+
+
+
+📃 Hashicorp Certificates
+
+
+</div>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

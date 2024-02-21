@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaskin23&label=Profile%20views&color=0e75b6&style=flat" alt="gaskin23" /> </p>
 
-- 🌱 I’m currently learning [<img src="https://global.discourse-cdn.com/standard11/uploads/gruntwork/original/1X/451c24614aece67849fd62d0432d77ecd00735c6.png" alt="Terragrunt Logo" width="20" height="20">](https://terragrunt.gruntwork.io/)
+- 🌱 I’m currently learning [![Linkedin Badge](https://img.shields.io/badge/-Terragrunt-8A2BE2?style=flat&labelColor=8A2BE2&logo=terraform&logoColor=white] (https://terragrunt.gruntwork.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaskin23/](https://github.com/gaskin23/)
 
@@ -16,7 +16,7 @@
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gokhan_Askin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhanaskin/) 
-[![Mail Badge](https://img.shields.io/badge/-Gokhan_Askin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gashcin23@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Gokhan_Askin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)     (mailto:gashcin23@gmail.com)
 
 </div>
 

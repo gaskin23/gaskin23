@@ -7,7 +7,7 @@
 
 <img align="right" alt="devops" width="400" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaskin23&label=Profile%20views&color=0e75b6&style=flat" alt="gaskin23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaskin23&label=Profile%20views&color=0e75b6&style=flat" alt="gaskin23"> </p>
 
 - 🌱 I’m currently learning [![Terragrunt Badge](https://img.shields.io/badge/-Terragrunt-8A2BE2?style=flat&labelColor=8A2BE2&logo=terraform&logoColor=white)](https://terragrunt.gruntwork.io/)
 

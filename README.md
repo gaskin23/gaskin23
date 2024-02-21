@@ -17,7 +17,8 @@
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gokhan_Askin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhanaskin/) 
-[![Mail Badge](https://img.shields.io/badge/-Gokhan_Askin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)  (mailto:gashcin23@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Gokhan_Askin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gashcin23@gmail.com)
+
 
 </div>
 

@@ -29,6 +29,7 @@
 
 📃 AWS Certificates
 
+<a href="https://www.credly.com/earner/earned/share/d845672a-c01c-4554-985e-310cd321bdc0" title="AWS"><img src="./AWS.png" width="200px" align="center"/></a>
 
 
 📃 Hashicorp Certificates

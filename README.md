@@ -24,7 +24,7 @@
 
 📃 K8S Certificates
 
-| <a href="https://www.credly.com/badges/42ec454b-0dec-4d88-b971-bccf39f2b7d9" title="CKS"><img src="./CKS.png" width="200px" align="center"/></a> | <a href="https://www.credly.com/earner/earned/badge/bf4e18b0-ef37-429f-9ed2-54724c025d84" title="CKA"><img src="./CKA.png" width="200px" align="center"/></a> | <a href="https://www.credly.com/earner/earned/badge/f948a1d3-5eef-4d62-a5cf-b6ed0832171c" title="CKAD"><img src="./CKAD.png" width="200px" align="center"/></a> |
+<a href="https://www.credly.com/badges/42ec454b-0dec-4d88-b971-bccf39f2b7d9" title="CKS"><img src="./CKS.png" width="200px" align="center"/></a> | <a href="https://www.credly.com/earner/earned/badge/bf4e18b0-ef37-429f-9ed2-54724c025d84" title="CKA"><img src="./CKA.png" width="200px" align="center"/></a> | <a href="https://www.credly.com/earner/earned/badge/f948a1d3-5eef-4d62-a5cf-b6ed0832171c" title="CKAD"><img src="./CKAD.png" width="200px" align="center"/></a> 
 | :---: | :---: |
 
 📃 AWS Certificates
@@ -33,8 +33,8 @@
 
 📃 Hashicorp Certificates
 
-| <a href="https://www.credly.com/earner/earned/badge/c1fdd9e9-a440-4c6d-89e7-405f30961a43" title="Terraform"><img src="./Terraform.png" width="200px" align="center"/></a> |
-| :---: | :---: |
+<a href="https://www.credly.com/earner/earned/badge/c1fdd9e9-a440-4c6d-89e7-405f30961a43" title="Terraform"><img src="./Terraform.png" width="200px" align="center"/></a>
+
 
 </div>
 
